@@ -2,10 +2,11 @@
 <img src="https://raw.githubusercontent.com/rudraprotapchakraborty/rudraprotapchakraborty/main/images/cover.svg" />
 </a>
 
-# 👋 Hi, I'm Rudra Protap Chakraborty | Mern Stack Web Developer
+# 👋 Hi, I'm Rudra Protap Chakraborty
+### 🚀 BSc in Physics | Mern Stack Developer
 
 ## :memo: About me
-A BSc Physics student, passionate about building responsive, user-friendly web applications. Love exploring new web technologies and frameworks. Enthusiastic about open-source contributions and collaboration. Constantly learning and improving my skills. Always bridging the gap between science and technology with innovative solutions.
+Passionate about building responsive, user-friendly web applications. Love exploring new web technologies and frameworks. Enthusiastic about open-source contributions and collaboration. Constantly learning and improving my skills. Always bridging the gap between science and technology with innovative solutions.
 
 ## :pushpin: Current Activities
 - Exploring Next.js and its advanced features.
@@ -19,9 +20,11 @@ A BSc Physics student, passionate about building responsive, user-friendly web a
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=rudraprotapchakraborty&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudraprotapchakraborty&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudraprotapchakraborty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
 ## :mailbox: Reach me out
 
 <br />
