@@ -2,14 +2,10 @@
 <img src="https://raw.githubusercontent.com/rudraprotapchakraborty/rudraprotapchakraborty/main/images/cover.svg" />
 </a>
 
-# 👋 Hi, I'm Rudra Protap Chakraborty
-### 🚀 Mern Stack Developer | Web Enthusiast
+# 👋 Hi, I'm Rudra Protap Chakraborty | Mern Stack Web Developer
 
 ## :memo: About me
-- Passionate about building responsive, user-friendly web applications.
-- Love exploring new web technologies and frameworks.
-- Enthusiastic about open-source contributions and collaboration.
-- Constantly learning and improving my skills.
+A BSc Physics student, passionate about building responsive, user-friendly web applications. Love exploring new web technologies and frameworks. Enthusiastic about open-source contributions and collaboration. Constantly learning and improving my skills. Always bridging the gap between science and technology with innovative solutions.
 
 ## :pushpin: Current Activities
 - Exploring Next.js and its advanced features.
