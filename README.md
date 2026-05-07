@@ -1,4 +1,4 @@
-<a href="https://www.rudraprotapchakraborty.com/">
+<a href="https://www.rudraprotapchakraborty.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/rudraprotapchakraborty/rudraprotapchakraborty/main/images/cover.svg" />
 </a>
 
@@ -29,16 +29,6 @@ My physics background sharpens my analytical thinking and translates into code t
 - Deepening backend expertise with **PostgreSQL**, **Prisma ORM**, and **Express.js**
 - Exploring **Docker** and **AWS** for scalable deployments
 - Pursuing BSc Physics (Honours with Research) at Amity University, Kolkata (2024–2028)
-
----
-
-## :rocket: Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **Spring Field Developments** | Real estate corporate website | Next.js, React, Tailwind CSS |
-| **BeeTeam Studios** | Film production studio website | Next.js, React, Tailwind CSS |
-| **Nami Moon Restaurant** | Pan-Asian restaurant website | Next.js, React, Tailwind CSS |
 
 ---
 
@@ -91,18 +81,15 @@ My physics background sharpens my analytical thinking and translates into code t
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rudraprotapchakraborty/" target="_blank">
-    <img height="75" src="https://github.com/rudraprotapchakraborty/rudraprotapchakraborty/blob/main/images/icons/Linkedin.png">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="75" />
   </a>
-  <a href="https://www.facebook.com/rudraprotapchakraborty" target="_blank">
-    <img height="75" src="https://github.com/rudraprotapchakraborty/rudraprotapchakraborty/blob/main/images/icons/Facebook.png">
-  </a>
-  <a href="https://x.com/rudraprotapchak" target="_blank">
-    <img height="75" src="https://github.com/rudraprotapchakraborty/rudraprotapchakraborty/blob/main/images/icons/Twitter.png">
+  <a href="https://api.whatsapp.com/send/?phone=8801334509527" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="75" />
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:rudra.phymos@gmail.com">
+  <a href="mailto:rudra.phymos@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-rudra.phymos@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
