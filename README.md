@@ -93,7 +93,7 @@ My physics background sharpens my analytical thinking and translates into code t
   <a href="https://www.linkedin.com/in/rudraprotapchakraborty/" target="_blank">
     <img height="75" src="https://github.com/rudraprotapchakraborty/rudraprotapchakraborty/blob/main/images/icons/Linkedin.png">
   </a>
-  <a href="https://www.facebook.com/rudraprotapchakraborty1" target="_blank">
+  <a href="https://www.facebook.com/rudraprotapchakraborty" target="_blank">
     <img height="75" src="https://github.com/rudraprotapchakraborty/rudraprotapchakraborty/blob/main/images/icons/Facebook.png">
   </a>
   <a href="https://x.com/rudraprotapchak" target="_blank">
