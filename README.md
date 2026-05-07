@@ -75,55 +75,33 @@
 
 **Frontend**
 
-<p>
-  <img src="https://raw.githubusercontent.com/rudraprotapchakraborty/rudraprotapchakraborty/main/images/icons/HTML.png" height="40" alt="HTML5" title="HTML5" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/rudraprotapchakraborty/rudraprotapchakraborty/main/images/icons/css.png" height="40" alt="CSS3" title="CSS3" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/rudraprotapchakraborty/rudraprotapchakraborty/main/images/icons/JavaScript.png" height="40" alt="JavaScript" title="JavaScript" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/rudraprotapchakraborty/rudraprotapchakraborty/main/images/icons/typescript.svg" height="40" alt="TypeScript" title="TypeScript" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/rudraprotapchakraborty/rudraprotapchakraborty/main/images/icons/react.png" height="40" alt="React" title="React" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/rudraprotapchakraborty/rudraprotapchakraborty/main/images/icons/nextjs.png" height="40" alt="Next.js" title="Next.js" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/rudraprotapchakraborty/rudraprotapchakraborty/main/images/icons/tailwind.png" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 <br />
 
 **Backend & Database**
 
-<p>
-  <img src="https://raw.githubusercontent.com/rudraprotapchakraborty/rudraprotapchakraborty/main/images/icons/node.png" height="40" alt="Node.js" title="Node.js" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/rudraprotapchakraborty/rudraprotapchakraborty/main/images/icons/expressjs.svg" height="40" alt="Express.js" title="Express.js" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/rudraprotapchakraborty/rudraprotapchakraborty/main/images/icons/mongodb.png" height="40" alt="MongoDB" title="MongoDB" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/rudraprotapchakraborty/rudraprotapchakraborty/main/images/icons/postgresql.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/rudraprotapchakraborty/rudraprotapchakraborty/main/images/icons/firebase.png" height="40" alt="Firebase" title="Firebase" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 <br />
 
 **DevOps & Infrastructure**
 
-<p>
-  <img src="https://raw.githubusercontent.com/rudraprotapchakraborty/rudraprotapchakraborty/main/images/icons/docker.svg" height="40" alt="Docker" title="Docker" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/rudraprotapchakraborty/rudraprotapchakraborty/main/images/icons/aws.png" height="40" alt="AWS" title="AWS" />
-</p>
-
-<br />
-
-**AI Tools**
-
-<p>
-  <img src="https://raw.githubusercontent.com/rudraprotapchakraborty/rudraprotapchakraborty/main/images/icons/ai.png" height="40" alt="AI Tools" title="AI Tools" />
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 </div>
 
