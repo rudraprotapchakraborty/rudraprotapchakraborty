@@ -26,12 +26,14 @@
 ## 📝 About Me
 
 <p align="center">
-  I blend design with engineering — building web applications that feel polished,<br />
-  from database architecture through deployment. I thrive where creativity meets<br />
-  complex problem-solving, focusing on clean, reusable code and scalable system architecture.<br />
+  I build production web applications for agency clients at <b>Creative Surf</b> —<br />
+  real estate, hospitality, film production, and marketing. Next.js and TypeScript<br />
+  on the front end, Node.js and MongoDB behind it.<br />
   <br />
-  My physics background sharpens my analytical thinking and translates into<br />
-  code that's as rigorous as it is elegant.
+  The work I enjoy most sits where design meets engineering: WebGL interfaces,<br />
+  bilingual content systems, authenticated admin panels, and the unglamorous<br />
+  plumbing that keeps them running. Studying physics is where the habit of<br />
+  questioning my own assumptions comes from.
 </p>
 
 ---
