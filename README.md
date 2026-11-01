@@ -8,15 +8,17 @@
 
 <div align="center">
   <h1>👋 Hi, I'm Rudra Protap Chakraborty</h1>
-  <h3>Full Stack Developer &nbsp;·&nbsp; BSc Physics @ Amity University, Kolkata</h3>
+  <h3>Full Stack Web Developer &nbsp;·&nbsp; I build fast, SEO-friendly websites & web apps for businesses</h3>
   <br />
   <a href="https://www.rudraprotapchakraborty.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-rudraprotapchakraborty.com-FF1CF7?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Open_to-Remote_Work-00F0FF?style=for-the-badge" />
+  <a href="https://www.rudraprotapchakraborty.com/contact" target="_blank">
+    <img src="https://img.shields.io/badge/Open_to-Freelance_&_Remote_Work-00F0FF?style=for-the-badge" />
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Based_in-Bangladesh-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Based_in-Rajshahi,_Bangladesh-4CAF50?style=for-the-badge" />
 </div>
 
 <br />
@@ -26,14 +28,58 @@
 ## 📝 About Me
 
 <p align="center">
-  I build production web applications for agency clients at <b>Creative Surf</b> —<br />
-  real estate, hospitality, film production, and marketing. Next.js and TypeScript<br />
+  From 2025 to 2026 I built production websites for agency clients at <b>Creative Surf</b>:<br />
+  real estate, hospitality, film production and marketing. Next.js and TypeScript<br />
   on the front end, Node.js and MongoDB behind it.<br />
   <br />
   The work I enjoy most sits where design meets engineering: WebGL interfaces,<br />
-  bilingual content systems, authenticated admin panels, and the unglamorous<br />
-  plumbing that keeps them running. Studying physics is where the habit of<br />
-  questioning my own assumptions comes from.
+  bilingual content systems and admin panels that let clients run their own sites.<br />
+  Studying physics is where my habit of questioning my own assumptions comes from.
+</p>
+
+---
+
+## 🚀 Featured Client Work
+
+<div align="center">
+
+| Project | What it is | Built with |
+|---|---|---|
+| **[BeeTeam Studios](https://www.beeteamltd.com/)** | Cinematic website for a Dhaka film production studio | Next.js · React · Tailwind CSS |
+| **[Creative Surf Agency](https://www.creativesurf.agency/)** | Agency website for a digital creative studio | Next.js · React · Tailwind CSS |
+| **[Spring Field Developments](https://springfield-developments.vercel.app/)** | Corporate site for a real estate developer with 100+ completed projects | Next.js · React · Tailwind CSS |
+| **[SEZA Design & Construction](https://sezadc.vercel.app/)** | Bilingual (English / Bangla) site for a design and construction firm | Next.js · TypeScript · Tailwind CSS |
+| **[Nami Moon Restaurant](https://nami-moon.vercel.app/)** | Restaurant website for a Pan-Asian dining spot in Dhaka | Next.js · React · Tailwind CSS |
+| **[Sirius A Marketing](https://sirius-a-marketing.vercel.app/)** | Website for a marketing agency with offices in the UK and Bangladesh | Next.js · React · Tailwind CSS |
+| **[Wedvisa](https://wedvisa-planning.vercel.app/)** | Wedding planner dashboard for budgets, guests and suppliers | Next.js · TypeScript · Tailwind CSS |
+
+<sub>Client code is private. Case studies with screenshots: <a href="https://www.rudraprotapchakraborty.com/projects">rudraprotapchakraborty.com/projects</a></sub>
+
+</div>
+
+---
+
+## 🧪 Personal Projects
+
+<div align="center">
+
+| Project | What it is | Code |
+|---|---|---|
+| **[Digital Wallet System](https://digital-wallet-system-frontend-topaz.vercel.app/)** | Digital wallet with role-based sign-in, transfers and admin controls | [frontend](https://github.com/rudraprotapchakraborty/digital-wallet-system-frontend) · [backend](https://github.com/rudraprotapchakraborty/Digital-Wallet-System-Backend) |
+| **[Travel Buddy](https://travel-buddy-frontend-lake.vercel.app/)** | Find travel companions, share trip plans and organize meetups | [frontend](https://github.com/rudraprotapchakraborty/travel-buddy-frontend) · [backend](https://github.com/rudraprotapchakraborty/travel-buddy-backend) |
+| **[Hotel Management System](https://hotel-management-25cdc.web.app/)** | Dashboard for bookings, meals and reviews | [client](https://github.com/rudraprotapchakraborty/hotel-management-client) · [server](https://github.com/rudraprotapchakraborty/hotel-management-server) |
+| **[Food Sharing](https://food-sharing-5c75a.web.app/)** | Community platform to donate surplus food | [client](https://github.com/rudraprotapchakraborty/food-sharing-client) · [server](https://github.com/rudraprotapchakraborty/food-sharing-server) |
+| **[Movie Portal](https://movie-portal-c66f2.web.app/)** | Movie discovery with search, filters and watchlists | [client](https://github.com/rudraprotapchakraborty/movie-portal-client) · [server](https://github.com/rudraprotapchakraborty/movie-portal-server) |
+
+</div>
+
+---
+
+## 💼 Need a Website?
+
+<p align="center">
+  I build business websites, web apps and admin dashboards, and I can set up the domain and hosting too.<br />
+  <a href="https://www.rudraprotapchakraborty.com/services"><b>See services</b></a> &nbsp;·&nbsp; <a href="https://www.rudraprotapchakraborty.com/contact"><b>Start a project</b></a>
 </p>
 
 ---
@@ -44,29 +90,11 @@
 
 | | What I'm up to |
 |---|---|
-| 🔨 | Building full-stack apps with **Next.js**, **TypeScript**, and **Tailwind CSS** |
+| 💼 | Taking on freelance website and web app projects, and open to remote roles |
 | 🗄️ | Deepening backend expertise with **PostgreSQL**, **Prisma ORM**, and **Express.js** |
 | 🚀 | Exploring **Docker** and **AWS** for scalable deployments |
 | 🎓 | Pursuing BSc Physics (Honours with Research) at Amity University, Kolkata (2024–2028) |
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<br />
-
-<div align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=rudraprotapchakraborty&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</div>
-
-<br />
-
-<br />
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rudraprotapchakraborty&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ---
@@ -104,6 +132,26 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
+
+
+---
+
+## 📊 GitHub Stats
+
+<br />
+
+<div align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=rudraprotapchakraborty&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</div>
+
+<br />
+
+<br />
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rudraprotapchakraborty&theme=react-dark&hide_border=true&area=true" />
+</div>
+
 
 ---
 
