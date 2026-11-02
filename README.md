@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.rudraprotapchakraborty.com/" target="_blank">
+  <a href="https://rudraprotapchakraborty.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/rudraprotapchakraborty/rudraprotapchakraborty/main/images/cover.svg" width="100%" />
   </a>
 </div>
@@ -10,11 +10,11 @@
   <h1>👋 Hi, I'm Rudra Protap Chakraborty</h1>
   <h3>Full Stack Web Developer &nbsp;·&nbsp; I build fast, SEO-friendly websites & web apps for businesses</h3>
   <br />
-  <a href="https://www.rudraprotapchakraborty.com/" target="_blank">
+  <a href="https://rudraprotapchakraborty.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-rudraprotapchakraborty.com-FF1CF7?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.rudraprotapchakraborty.com/contact" target="_blank">
+  <a href="https://rudraprotapchakraborty.com/contact" target="_blank">
     <img src="https://img.shields.io/badge/Open_to-Freelance_&_Remote_Work-00F0FF?style=for-the-badge" />
   </a>
   &nbsp;
@@ -53,7 +53,7 @@
 | **[Sirius A Marketing](https://sirius-a-marketing.vercel.app/)** | Website for a marketing agency with offices in the UK and Bangladesh | Next.js · React · Tailwind CSS |
 | **[Wedvisa](https://wedvisa-planning.vercel.app/)** | Wedding planner dashboard for budgets, guests and suppliers | Next.js · TypeScript · Tailwind CSS |
 
-<sub>Client code is private. Case studies with screenshots: <a href="https://www.rudraprotapchakraborty.com/projects">rudraprotapchakraborty.com/projects</a></sub>
+<sub>Client code is private. Case studies with screenshots: <a href="https://rudraprotapchakraborty.com/projects">rudraprotapchakraborty.com/projects</a></sub>
 
 </div>
 
@@ -79,7 +79,7 @@
 
 <p align="center">
   I build business websites, web apps and admin dashboards, and I can set up the domain and hosting too.<br />
-  <a href="https://www.rudraprotapchakraborty.com/services"><b>See services</b></a> &nbsp;·&nbsp; <a href="https://www.rudraprotapchakraborty.com/contact"><b>Start a project</b></a>
+  <a href="https://rudraprotapchakraborty.com/services"><b>See services</b></a> &nbsp;·&nbsp; <a href="https://rudraprotapchakraborty.com/contact"><b>Start a project</b></a>
 </p>
 
 ---
@@ -93,7 +93,7 @@
 | 💼 | Taking on freelance website and web app projects, and open to remote roles |
 | 🗄️ | Deepening backend expertise with **PostgreSQL**, **Prisma ORM**, and **Express.js** |
 | 🚀 | Exploring **Docker** and **AWS** for scalable deployments |
-| 🎓 | Pursuing BSc Physics (Honours with Research) at Amity University, Kolkata (2024–2028) |
+| 🎓 | Pursuing a BSc in Physics at Amity University, Kolkata (2024–2028) |
 
 </div>
 
