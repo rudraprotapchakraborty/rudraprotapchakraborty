@@ -65,12 +65,12 @@
 
 | Project | What it is | Code |
 |---|---|---|
-| **[Digital Wallet System](https://digital-wallet-system-frontend-topaz.vercel.app/)** | Digital wallet with role-based sign-in, transfers and admin controls | [frontend](https://github.com/rudraprotapchakraborty/digital-wallet-system-frontend) · [backend](https://github.com/rudraprotapchakraborty/Digital-Wallet-System-Backend) |
-| **[Travel Buddy](https://travel-buddy-frontend-lake.vercel.app/)** | Find travel companions, share trip plans and organize meetups | [frontend](https://github.com/rudraprotapchakraborty/travel-buddy-frontend) · [backend](https://github.com/rudraprotapchakraborty/travel-buddy-backend) |
-| **[Hotel Management System](https://hotel-management-25cdc.web.app/)** | Dashboard for bookings, meals and reviews | [frontend](https://github.com/rudraprotapchakraborty/hotel-management-client) · [backend](https://github.com/rudraprotapchakraborty/hotel-management-server) |
-| **[Food Sharing](https://food-sharing-5c75a.web.app/)** | Community platform to donate surplus food | [frontend](https://github.com/rudraprotapchakraborty/food-sharing-client) · [backend](https://github.com/rudraprotapchakraborty/food-sharing-server) |
-| **[Movie Portal](https://movie-portal-c66f2.web.app/)** | Movie discovery with search, filters and watchlists | [frontend](https://github.com/rudraprotapchakraborty/movie-portal-client) · [backend](https://github.com/rudraprotapchakraborty/movie-portal-server) |
-| **[Task Management](https://task-management-2edae.web.app/)** | Task management app for creating, organizing and tracking tasks | [frontend](https://github.com/rudraprotapchakraborty/task-management-client) · [backend](https://github.com/rudraprotapchakraborty/task-management-server) |
+| **[Digital Wallet System](https://digital-wallet-system-frontend-topaz.vercel.app/)** | Digital wallet with role-based sign-in, transfers and admin controls | [frontend](https://github.com/rudraprotapchakraborty/digital-wallet-system-frontend) · [backend](https://github.com/rudraprotapchakraborty/digital-wallet-system-backend) |
+| **[Travel Buddy](https://travel-buddy-frontend-qzgv.vercel.app/)** | Find travel companions, share trip plans and organize meetups | [frontend](https://github.com/rudraprotapchakraborty/travel-buddy-frontend) · [backend](https://github.com/rudraprotapchakraborty/travel-buddy-backend) |
+| **[Hotel Management System](https://hotel-management-25cdc.web.app/)** | Dashboard for bookings, meals and reviews | [frontend](https://github.com/rudraprotapchakraborty/hotel-management-system-frontend) · [backend](https://github.com/rudraprotapchakraborty/hotel-management-system-backend) |
+| **[Food Sharing](https://food-sharing-5c75a.web.app/)** | Community platform to donate surplus food | [frontend](https://github.com/rudraprotapchakraborty/food-sharing-platform-frontend) · [backend](https://github.com/rudraprotapchakraborty/food-sharing-platform-backend) |
+| **[Movie Portal](https://movie-portal-c66f2.web.app/)** | Movie discovery with search, filters and watchlists | [frontend](https://github.com/rudraprotapchakraborty/movie-portal-frontend) · [backend](https://github.com/rudraprotapchakraborty/movie-portal-backend) |
+| **[Realtime Task Board](https://task-management-2edae.web.app/)** | Task management board for creating, organizing and tracking tasks | [frontend](https://github.com/rudraprotapchakraborty/realtime-task-board-frontend) · [backend](https://github.com/rudraprotapchakraborty/realtime-task-board-backend) |
 
 </div>
 
