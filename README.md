@@ -71,6 +71,7 @@
 | **[Food Sharing](https://food-sharing-platform-frontend-chi.vercel.app/)** | Share surplus food, request a meal and cut waste | [frontend](https://github.com/rudraprotapchakraborty/food-sharing-platform-frontend) · [backend](https://github.com/rudraprotapchakraborty/food-sharing-platform-backend) |
 | **[Movie Portal](https://movie-portal-frontend-tau.vercel.app/)** | Movie catalogue with search, genres, favorites and member-added movies | [frontend](https://github.com/rudraprotapchakraborty/movie-portal-frontend) · [backend](https://github.com/rudraprotapchakraborty/movie-portal-backend) |
 | **[Realtime Task Board](https://realtime-task-board-frontend.vercel.app/)** | Kanban board with drag and drop, live sync across devices and secure sign-in | [frontend](https://github.com/rudraprotapchakraborty/realtime-task-board-frontend) · [backend](https://github.com/rudraprotapchakraborty/realtime-task-board-backend) |
+| **[Inkwell](https://inkwell-blog-platform-lyart.vercel.app/)** | Blog writing platform: write, draft and publish posts with a rich-text editor, likes and comments | [full-stack](https://github.com/rudraprotapchakraborty/inkwell-blog-platform) |
 
 </div>
 
