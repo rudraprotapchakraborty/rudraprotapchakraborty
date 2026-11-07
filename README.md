@@ -70,7 +70,7 @@
 | **[Hotel Management System](https://hotel-management-25cdc.web.app/)** | Dashboard for bookings, meals and reviews | [frontend](https://github.com/rudraprotapchakraborty/hotel-management-system-frontend) · [backend](https://github.com/rudraprotapchakraborty/hotel-management-system-backend) |
 | **[Food Sharing](https://food-sharing-5c75a.web.app/)** | Community platform to donate surplus food | [frontend](https://github.com/rudraprotapchakraborty/food-sharing-platform-frontend) · [backend](https://github.com/rudraprotapchakraborty/food-sharing-platform-backend) |
 | **[Movie Portal](https://movie-portal-c66f2.web.app/)** | Movie discovery with search, filters and watchlists | [frontend](https://github.com/rudraprotapchakraborty/movie-portal-frontend) · [backend](https://github.com/rudraprotapchakraborty/movie-portal-backend) |
-| **[Realtime Task Board](https://task-management-2edae.web.app/)** | Task management board for creating, organizing and tracking tasks | [frontend](https://github.com/rudraprotapchakraborty/realtime-task-board-frontend) · [backend](https://github.com/rudraprotapchakraborty/realtime-task-board-backend) |
+| **[Realtime Task Board](https://realtime-task-board-frontend.vercel.app/)** | Kanban board with drag and drop, live sync across devices and secure sign-in | [frontend](https://github.com/rudraprotapchakraborty/realtime-task-board-frontend) · [backend](https://github.com/rudraprotapchakraborty/realtime-task-board-backend) |
 
 </div>
 
